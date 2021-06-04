@@ -9,6 +9,8 @@ I saw repository, noticed that **the repository has been deprecated.**
 
 ![image](https://user-images.githubusercontent.com/32592965/120782274-ceb06400-c564-11eb-8641-742859471324.png)
 
+Latest commit in 2018.
+
 They are migrated into vue 3. but i think there are many reasons why people staying in vue 3. vuetify in vue 3 in only alpha, etc...
 
 So i decided to make new template repository with my own.
